@@ -151,7 +151,6 @@ h4 {
 
 .footer {
   background-color: #2e2f42;
-  height: 312px;
   width: 1440px;
 }
 
@@ -168,7 +167,6 @@ h4 {
 
 .footer p {
   color: var(--CLOUD, #f4f4fd);
-
   /* Body */
   font-family: Roboto;
   font-size: 16px;
